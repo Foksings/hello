@@ -3,3 +3,4 @@
 
 Hello, Git!
 Second one
+Hello, git rebase!
